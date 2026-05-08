@@ -1,0 +1,7 @@
+{
+  "name": "pdf-parser",        // 技能名称（英文、小写、无空格）
+  "description": "解析PDF文本", // 简短描述
+  "version": "0.0.1",          // 版本号
+  "author": "你的名字",
+  "entry": "skill.js"          // 入口文件（必须和实际文件名一致）
+}
